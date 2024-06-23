@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>TC25 Netherland</description>
+   <name>TC25 Netherland</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ec602f42-6af8-411d-b4f7-b26512460c9f</testCaseGuid>
+</TestCaseEntity>

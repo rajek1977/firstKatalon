@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>TC06_Google_Maharashtra</description>
+   <name>TC11_Google_Pune</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>475df827-bf18-4338-bdd4-190f0e3709a5</testCaseGuid>
+</TestCaseEntity>

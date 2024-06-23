@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>TC06_Google_Maharashtra</description>
+   <name>TC08_Google_Bihar</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e3937d9b-2c47-4e47-b41f-7a7bc4096084</testCaseGuid>
+</TestCaseEntity>

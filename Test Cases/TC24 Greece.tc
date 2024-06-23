@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>TC24 Greece</description>
+   <name>TC24 Greece</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>73300512-c6be-4467-9ee5-0ef0e9b1f98f</testCaseGuid>
+</TestCaseEntity>

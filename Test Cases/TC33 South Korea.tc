@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>TC33 South Korea</description>
+   <name>TC33 South Korea</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ba3618ad-992e-4798-8bf2-94294a9dcdb6</testCaseGuid>
+</TestCaseEntity>

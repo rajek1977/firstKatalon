@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>TC12 Test Case</description>
+   <name>TC12 Asia</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>13353b2a-8abd-48a0-b9c0-f5fc9b4658fa</testCaseGuid>
+</TestCaseEntity>

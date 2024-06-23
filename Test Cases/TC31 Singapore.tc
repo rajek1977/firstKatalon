@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>TC31 Singapore</description>
+   <name>TC31 Singapore</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>cf49a1f6-722b-4667-86f7-da74d13e545a</testCaseGuid>
+</TestCaseEntity>

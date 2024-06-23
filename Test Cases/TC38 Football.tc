@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>TC38 Test Case</description>
+   <name>TC38 Football</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1e82663c-6afd-44d6-a013-4e7a81756c42</testCaseGuid>
+</TestCaseEntity>

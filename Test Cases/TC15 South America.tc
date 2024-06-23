@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>TC15 South America</description>
+   <name>TC15 South America</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>346b5e5a-dfe2-4be9-8009-ef7440cb38e2</testCaseGuid>
+</TestCaseEntity>

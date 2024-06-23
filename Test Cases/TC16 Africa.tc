@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>TC16 Africa</description>
+   <name>TC16 Africa</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0e20db2c-bc07-47ca-9c7e-9567063c56bb</testCaseGuid>
+</TestCaseEntity>

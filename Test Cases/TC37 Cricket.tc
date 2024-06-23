@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>37 Test Case</description>
+   <name>TC37 Cricket</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c443ce76-0e37-456b-87f6-2907774b4f85</testCaseGuid>
+</TestCaseEntity>

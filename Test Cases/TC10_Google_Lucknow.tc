@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>TC06_Google_Maharashtra</description>
+   <name>TC10_Google_Lucknow</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>93c59870-7091-42c8-85c4-5264a14f0e55</testCaseGuid>
+</TestCaseEntity>

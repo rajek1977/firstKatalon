@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>TC06_Google_Maharashtra</description>
+   <name>TC06_Google_Maharashtra</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0b2099c2-28b5-48a3-9a00-190fa4d288c1</testCaseGuid>
+</TestCaseEntity>

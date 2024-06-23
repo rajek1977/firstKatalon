@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>TC21 Italy</description>
+   <name>TC21 Italy</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1018fa29-e037-4ca3-a358-815c1cd70df8</testCaseGuid>
+</TestCaseEntity>

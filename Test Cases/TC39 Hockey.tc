@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>TC39 Hockey</description>
+   <name>TC39 Hockey</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b7e8a756-2900-41b6-9f3b-af59c2b40928</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>TC14 North America</description>
+   <name>TC14 North America</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>088b155f-a4d8-49b5-b31e-de80a36caed2</testCaseGuid>
+</TestCaseEntity>

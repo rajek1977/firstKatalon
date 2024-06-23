@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>TC01 Katalon</description>
+   <name>TC03 Katalon Premium Package</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7aec9bf7-48ec-4853-8158-548942edd856</testCaseGuid>
+</TestCaseEntity>

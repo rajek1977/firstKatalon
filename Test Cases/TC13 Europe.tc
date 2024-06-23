@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>TC13 Europe</description>
+   <name>TC13 Europe</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2a239027-dbe4-4c65-8dab-e3ce66e54d64</testCaseGuid>
+</TestCaseEntity>
